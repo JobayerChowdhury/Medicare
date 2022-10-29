@@ -1,0 +1,16 @@
+.login-form{
+
+    /* border: 2px solid whitesmoke; */
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.input-color{
+    background-color: brown;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+ 
+}

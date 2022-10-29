@@ -1,0 +1,32 @@
+/* .form-style{
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid #011C27;
+    margin: 20px;
+    padding: 20px;
+
+}
+.form-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   border: 2px solid #011C27;
+} */
+.login-form{
+    background-color: rgb(243, 253, 253);
+    border: 2px solid white;
+   box-shadow: 2px 5px 5px rgb(114, 23, 23);
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.input-color{
+    background-color: brown;
+    border: 1px solid brown;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+ 
+}
